@@ -1,4 +1,3 @@
-# AIBusinessAdvisor
 # Shopping AI Recommendation System
 
 ## Giới thiệu
