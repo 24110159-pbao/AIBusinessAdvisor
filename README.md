@@ -48,7 +48,7 @@ python train_dead_product.py
 Chạy hệ thống:
 
 ```bash
-python app.py
+python gui.py
 ```
 
 ---
